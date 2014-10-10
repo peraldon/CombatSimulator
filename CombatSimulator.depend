@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1412950349 source:f:\c++\tutorials\combatsimulator\combat.cpp
+	"Combat.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1412949902 f:\c++\tutorials\combatsimulator\combat.h
+
+1412950349 source:f:\c++\tutorials\combatsimulator\main.cpp
+	"Combat.h"
+	<iostream>
+
