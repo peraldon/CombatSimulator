@@ -83,5 +83,10 @@ int main()
     //Sends all the required information over to the Attack method in the Combat class
     combatObject.Attack(skeletonObject.getSkeletonsAlive(), humanObject.getHumansAlive(), skeletonObject.getSkeletonsAttack(), skeletonObject.getSkeletonsDefence(), humanObject.getHumansAlive(), humanObject.getHumansDefence());
 
+    string endProgram = "0";
+
+    cout << "Type something to close" << endl;
+    cin >> endProgram;
+
 }
 
